@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sharon%20Backiarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Graduate&descAlignY=62&descSize=18" width="100%" alt="Header banner" />
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=6C5CE7&center=false&vCenter=true&width=600&lines=AI+and+Data+Science+Graduate;Machine+Learning+%7C+Deep+Learning;Building+with+Generative+AI" alt="Typing animation" />
 </p>
 
