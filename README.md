@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharon%20Backiarani&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=18" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sharon%20Backiarani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Graduate&descAlignY=62&descSize=18" width="100%" alt="Header banner" />
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=6C5CE7&center=false&vCenter=true&width=600&lines=AI+%26+Data+Science+Graduate;Machine+Learning+%7C+Deep+Learning;Building+with+Generative+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=6C5CE7&center=false&vCenter=true&width=600&lines=AI+and+Data+Science+Graduate;Machine+Learning+%7C+Deep+Learning;Building+with+Generative+AI" alt="Typing animation" />
 </p>
-
-📍 Chengalpattu, India &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=sharonbackia&label=Profile+Views&color=6c5ce7&style=flat" alt="Profile views" />
 
 ---
 
@@ -44,33 +42,20 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharonbackia&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonbackia&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/sharonbackia/sharonbackia/output/github-metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonbackia&theme=default&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharonbackia&theme=flat&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=sharonbackia&theme=onedark&no-frame=true&margin-w=10&row=1" alt="Trophies" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonbackia&theme=minimal&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
-## Contribution Animation
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sharonbackia/sharonbackia/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
-</p>
-
-> ⚠️ This only renders after you set up the snake workflow (one-time, ~2 min) — see step below.
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon15/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sharonbackia@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" alt="Footer banner" />
