@@ -20,7 +20,6 @@
 > 💡 Interested in turning data and ideas into practical AI solutions.
 
 **Currently:** `Learning AI` · `Building Projects` · `Exploring Data`
-
 <br clear="right"/>
 
 ---
