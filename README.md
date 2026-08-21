@@ -74,38 +74,38 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Smart Glove for Hand Gesture Voice Translator
+### 01 · 🤖 Smart Glove for Hand Gesture Voice Translator
 
-Assistive smart glove that converts hand gestures into voice output using sensors, Python, and machine learning.
+> An assistive system that converts hand gestures into voice output using sensors and machine learning.
 
-`Python` `Machine Learning` `Sensors` `Random Forest` `Hand Glove`
-
-### 🧬 Disease Prediction Website
-
-Machine learning web application for predicting **Heart Disease, Diabetes, and Parkinson's Disease** through an interactive interface.
-
-`Python` `Machine Learning` `Flask` `SVM` `Random Forest`
-
-### 🎬 Movie Recommendation Website
-
-Content-based movie recommendation website that suggests similar movies using movie metadata and machine learning.
-
-`Python` `Machine Learning` `Flask` `TMDB API` `Streamlit`
+**Built with:** `Python` `Machine Learning` `Sensors` `Random Forest`
 
 ---
 
-## 📈 GitHub Stats
+### 02 · 🧬 Disease Prediction Website
+
+> An ML-powered web application for predicting Heart Disease, Diabetes, and Parkinson's Disease.
+
+**Built with:** `Python` `Machine Learning` `Flask` `SVM` `Random Forest`
+
+---
+
+### 03 · 🎬 Movie Recommendation Website
+
+> A content-based recommendation system that suggests similar movies using movie metadata.
+
+**Built with:** `Python` `Machine Learning` `Flask` `TMDB API` `Streamlit`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharonbackia/sharonbackia/output/github-metrics.svg" width="100%" alt="GitHub metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonbackia&bg_color=0d1117&color=6C5CE7&line=8E7CC3&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sharonbackia&theme=onedark&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonbackia&theme=minimal&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=sharonbackia&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=8E7CC3&currStreakLabel=6C5CE7" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
