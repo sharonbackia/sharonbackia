@@ -12,14 +12,16 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Animated coding GIF" align="right">
 </p>
 
-* 🎓 AI & Data Science Graduate
-* 🤖 Interested in Machine Learning, Deep Learning, Data Analytics & AI
-* 💻 Building practical projects using Python and machine learning
-* 🌱 Continuously learning and exploring new technologies
+- 🎓 AI & Data Science Graduate
+- 🤖 Passionate about Machine Learning, Deep Learning & AI
+- 💻 Building practical applications with Python
+- 🌱 Always learning and exploring new technologies
+
+> 💡 Interested in turning data and ideas into practical AI solutions.
+
+**Currently:** `Learning AI` · `Building Projects` · `Exploring Data`
 
 <br clear="right"/>
-
-
 
 ---
 
@@ -77,19 +79,19 @@
 
 Assistive smart glove that converts hand gestures into voice output using sensors, Python, and machine learning.
 
-`Python` `Machine Learning` `Sensors`
+`Python` `Machine Learning` `Sensors` `Random Forest` `Hand Glove`
 
 ### 🧬 Disease Prediction Website
 
 Machine learning web application for predicting **Heart Disease, Diabetes, and Parkinson's Disease** through an interactive interface.
 
-`Python` `Machine Learning` `Flask`
+`Python` `Machine Learning` `Flask` `SVM` `Random Forest`
 
 ### 🎬 Movie Recommendation Website
 
 Content-based movie recommendation website that suggests similar movies using movie metadata and machine learning.
 
-`Python` `Machine Learning` `Flask`
+`Python` `Machine Learning` `Flask` `TMDB API` `Streamlit`
 
 ---
 
